@@ -15,12 +15,12 @@
 }
 .button:hover,
 .button:focus {
-    color: #ffffff;
+    color: var(--body-backgrownd);
     background-color: var(--accent-color);
 }
 
 .button-primary {
-    color: #ffffff;
+    color: var(--body-backgrownd);
     background-color: var(--accent-color);
     font-weight: 700;
     font-size: 16px;
@@ -37,7 +37,7 @@
 }
 
 .form-footer__button {
-    color: #ffffff;
+    color: var(--body-backgrownd);
     background-color: var(--accent-color);
     font-weight: 700;
     font-size: 16px;
@@ -59,7 +59,7 @@
 }
 
 .modal__button {
-    color: #ffffff;
+    color: var(--body-backgrownd);
     background-color: var(--accent-color);
     font-weight: 700;
     font-size: 16px;
